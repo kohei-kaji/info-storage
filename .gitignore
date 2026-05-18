@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+.DS_Store
+.Rhistory
+parses/
+*.rds
+*.aux
+*.blg
+*.bbl
+*.log
+*.out
+*.synctex.gz

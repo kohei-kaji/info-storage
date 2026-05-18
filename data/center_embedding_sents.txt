@@ -1,0 +1,32 @@
+\begin{enumerate}
+  \item a. The actor who the doctor who the reporter watched visited called the dancer \\ b. The reporter watched the doctor who visited the actor who called the dancer
+  \item a. The lawyer who the dancer who the doctor attacked stopped praised the writer \\ b. The doctor attacked the dancer who stopped the lawyer who praised the writer
+  \item a. The judge who the pilot who the senator watched visited attacked the reporter \\ b. The senator watched the pilot who visited the judge who attacked the reporter
+  \item a. The nurse who the thief who the reporter avoided praised visited the guard \\ b. The reporter avoided the thief who praised the nurse who visited the guard
+  \item a. The singer who the guard who the pilot called questioned admired the student \\ b. The pilot called the guard who questioned the singer who admired the student
+  \item a. The reporter who the artist who the singer ignored called helped the pilot \\ b. The singer ignored the artist who called the reporter who helped the pilot
+  \item a. The banker who the detective who the doctor helped attacked warned the president \\ b. The doctor helped the detective who attacked the banker who warned the president
+  \item a. The neighbor who the thief who the teacher stopped admired praised the senator \\ b. The teacher stopped the thief who admired the neighbor who praised the senator
+  \item a. The doctor who the chef who the president avoided watched called the guard \\ b. The president avoided the chef who watched the doctor who called the guard
+  \item a. The thief who the neighbor who the judge met attacked praised the banker \\ b. The judge met the neighbor who attacked the thief who praised the banker
+  \item a. The writer who the student who the soldier attacked visited watched the president \\ b. The soldier attacked the student who visited the writer who watched the president
+  \item a. The chef who the teacher who the baker ignored helped watched the actor \\ b. The baker ignored the teacher who helped the chef who watched the actor
+  \item a. The neighbor who the banker who the writer watched avoided praised the teacher \\ b. The writer watched the banker who avoided the neighbor who praised the teacher
+  \item a. The president who the thief who the actor visited praised stopped the artist \\ b. The actor visited the thief who praised the president who stopped the artist
+  \item a. The artist who the baker who the chef praised avoided trusted the teacher \\ b. The chef praised the baker who avoided the artist who trusted the teacher
+  \item a. The guard who the student who the writer trusted noticed watched the detective \\ b. The writer trusted the student who noticed the guard who watched the detective
+  \item a. The senator who the student who the detective visited attacked called the chef \\ b. The detective visited the student who attacked the senator who called the chef
+  \item a. The judge who the singer who the detective warned admired avoided the banker \\ b. The detective warned the singer who admired the judge who avoided the banker
+  \item a. The actor who the baker who the lawyer praised visited ignored the teacher \\ b. The lawyer praised the baker who visited the actor who ignored the teacher
+  \item a. The guard who the teacher who the dancer trusted questioned warned the judge \\ b. The dancer trusted the teacher who questioned the guard who warned the judge
+  \item a. The neighbor who the student who the lawyer noticed attacked admired the nurse \\ b. The lawyer noticed the student who attacked the neighbor who admired the nurse
+  \item a. The senator who the doctor who the lawyer avoided noticed ignored the actor \\ b. The lawyer avoided the doctor who noticed the senator who ignored the actor
+  \item a. The pilot who the thief who the president admired questioned warned the chef \\ b. The president admired the thief who questioned the pilot who warned the chef
+  \item a. The nurse who the teacher who the guard attacked praised avoided the reporter \\ b. The guard attacked the teacher who praised the nurse who avoided the reporter
+  \item a. The writer who the guard who the teacher called attacked helped the actor \\ b. The teacher called the guard who attacked the writer who helped the actor
+  \item a. The pilot who the artist who the baker called trusted praised the reporter \\ b. The baker called the artist who trusted the pilot who praised the reporter
+  \item a. The nurse who the artist who the doctor avoided watched called the actor \\ b. The doctor avoided the artist who watched the nurse who called the actor
+  \item a. The nurse who the thief who the banker ignored noticed helped the lawyer \\ b. The banker ignored the thief who noticed the nurse who helped the lawyer
+  \item a. The guard who the nurse who the reporter met admired helped the thief \\ b. The reporter met the nurse who admired the guard who helped the thief
+  \item a. The doctor who the neighbor who the soldier questioned visited met the student \\ b. The soldier questioned the neighbor who visited the doctor who met the student
+\end{enumerate}
